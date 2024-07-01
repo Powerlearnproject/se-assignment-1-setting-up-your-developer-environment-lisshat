@@ -1,0 +1,48 @@
+Operating System
+OS: Windows 11
+Download Link: Windows 11
+
+Text Editor/IDE
+IDE: Visual Studio Code
+Download Link: Visual Studio Code
+
+Version Control System
+VCS: Git
+Download Link: Git
+GitHub Account: Created at GitHub
+
+Programming Languages and Runtimes
+Language: Python
+Download Link: Python
+Verification: python --version
+
+Package Managers
+Package Manager: Pip (included with Python)
+Verification: pip --version
+
+Database
+Database: MySQL
+Download Link: MySQL
+
+Development Environments and Virtualization
+Tool: Docker 
+Download Link: Docker
+Verification: docker --version
+
+Extensions and Plugins
+Extensions:
+Python
+GitLens
+Prettier - Code formatter
+
+Troubleshooting
+Issue: Python not recognized after installation.
+Solution: Add Python to the PATH environment variable.
+Issue: Git installation issues.
+Solution: Ensure Git is installed and PATH is set correctly.
+
+Configurations
+Git Configuration:
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
